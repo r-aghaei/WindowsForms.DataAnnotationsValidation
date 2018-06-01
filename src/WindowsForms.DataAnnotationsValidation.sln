@@ -5,6 +5,13 @@ VisualStudioVersion = 15.0.27703.2000
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsForms.DataAnnotationsValidation", "WindowsForms.DataAnnotationsValidation\WindowsForms.DataAnnotationsValidation.csproj", "{D0AEEAD6-F563-407F-85C0-2B2ED5CB6389}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{9A86FA1F-45D0-4EA3-B6CF-32349261858B}"
+	ProjectSection(SolutionItems) = preProject
+		..\README.md = ..\README.md
+		..\validation-details.png = ..\validation-details.png
+		..\validation-grid.png = ..\validation-grid.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
